@@ -258,7 +258,7 @@ case 'crisps':
   snack = 'Food';
   break;
 default:
-  drink = 'Unknown type!';
+  snack = 'Unknown type!';
 }
 console.log(snack); // 'Drink'
 {% endhighlight %}
